@@ -92,3 +92,9 @@ if __name__ == '__main__':
     pylab.ylim([0, 100000])
 
     pylab.show()
+
+
+'''
+ it consists of a "two tone" combination of 853 Hz and 960 Hz sine waves
+ 
+'''
